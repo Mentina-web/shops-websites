@@ -7,10 +7,10 @@ Premium demo websites for local businesses (cafes, restaurants, salons, gyms & m
 Every business lives in its own folder, so its site is live at:
 
 ```
-https://juned7777.github.io/shops-websites/<BUSINESS-CODE>/
+https://mentina-web.github.io/shops-websites/<BUSINESS-CODE>/
 ```
 
-Example: `https://juned7777.github.io/shops-websites/MP-BHO-CAFE-0019/`
+Example: `https://mentina-web.github.io/shops-websites/MP-BHO-CAFE-0019/`
 
 ## Folder structure
 

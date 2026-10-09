@@ -15,6 +15,12 @@ pending.json
 progress.json
 
 # ============================================================
+#  WHATSAPP BOT (session creds + bheje gaye numbers) — NEVER PUBLIC
+# ============================================================
+wa-state/
+whatsapp-send.js
+
+# ============================================================
 #  LOCAL TOOLING (generator, scripts, notes) — repo public hai
 #  isliye sheet data wale output files bhi bahar rahenge
 # ============================================================
